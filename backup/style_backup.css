@@ -1,0 +1,53 @@
+.navbar {
+  background-color: #74121D !important;
+}
+.burger {
+  color: white;
+  height: 50px;
+  
+}
+.nav-link{
+  color: black !important;
+}
+
+body {
+  background-color: #313131;
+}
+
+.bg-imagem{
+  /* utilizamos a unidade de viewport para dar o efeito de reponsividade */
+  height: 45vw;
+  background-image: url(https://cdn.pixabay.com/photo/2015/04/20/13/25/burgers-731298_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-imagem p{
+  font-size: 4vw;
+  text-shadow: 4px 4px 8px black;
+}
+
+/* #sobre, #contato {
+  background-color: #C4C4C4;
+  width: 120px;
+  height: 50px;
+  border-radius: 3%;  
+} */
+
+p {
+  color: white;
+}
+
+.footer {
+  background-color: #74121D !important; 
+}
+#sobre{
+  background-color: #c4c4c4;
+  border-radius: 3%;
+  width: 120px;  
+}
+#contato{
+  background-color: #c4c4c4;
+  border-radius: 3%;
+  width: 120px;  
+}
